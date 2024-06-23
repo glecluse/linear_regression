@@ -29,3 +29,5 @@ L'objectif de cette application est de réaliser une régression linéaire simpl
 1. L'utilisateur entre une nouvelle valeur pour la variable X.
 2. Le modèle utilise cette valeur pour prédire la valeur correspondante de la variable y.
 3. L'application affiche la prédiction arrondie à deux décimales.
+
+Lien vers l'application streamlit : https://linearregression-mf6tze6fyztuyvaf9envxn.streamlit.app/
